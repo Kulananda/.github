@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-🙋‍♀️ A short introduction - This is a private organization for which includes tests about my personal blog and repos that relate to the content that I create.
+🙋‍♀️ A short introduction - This is a private organization for which includes tests about my personal blog and repos that relate to the content that I create. And also the opensource projects that will make someone life somewhere a tiny bit easier.
 
 🌈 Contribution guidelines - Currently there is bearly anything you can contribute to, so. I will add it once I have some repos that we can collaborate upon 😉.
 
