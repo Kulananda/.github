@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 
-🙋‍♀️ A short introduction - This is a private organization for which includes tests about my personal blog and repos that relate to the content that I create. And also the opensource projects that will make someone life somewhere a tiny bit easier.
+🙋‍♀️ A short introduction - This is an ogranization founded by [Saroj Regmi](github.com/sarojregmi200). Which aims to create open source projects that helps the community grow, and be a better place for everyone.
 
-🌈 Contribution guidelines - Currently there is bearly anything you can contribute to, so. I will add it once I have some repos that we can collaborate upon 😉.
+🌈 Contribution guidelines - Currently there is bearly anything you can contribute to, so. We will add it once We have some repos that we can collaborate upon 😉.
 
 👩‍💻 Useful resources - There are no useful resources yet 😁.
 
